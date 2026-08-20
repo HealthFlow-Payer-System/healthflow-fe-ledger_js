@@ -1,5 +1,10 @@
 # @openimis/fe-ledger
 
+
+> **HealthFlow Payer System — Egypt context**
+>
+> This repository is maintained under [HealthFlow Payer System](https://github.com/HealthFlow-Payer-System), an Egypt-focused health-insurance platform built on openIMIS foundations. Egypt-specific localization is applied at the assembly and module boundaries; consult the repository-specific configuration and deployment documentation for the capabilities enabled here.
+
 openIMIS frontend module for `openimis-be-ledger_py`'s double-entry
 accounting/ledger domain, built against the official specs shipped in this
 repository under `specs/001-ledger-double-entry-accounting/` (`spec.md`,
